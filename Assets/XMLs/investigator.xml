@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<ArrayOfInvestigator xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Investigator>
+    <Class>Expedition Leader</Class>
+    <health>6</health>
+    <sanity>6</sanity>
+    <lore>2</lore>
+    <influence>2</influence>
+    <observation>3</observation>
+    <strength>3</strength>
+    <will>3</will>
+    <assets />
+    <spells />
+    <cluesCount>0</cluesCount>
+    <trainTickets>0</trainTickets>
+    <shipTickets>0</shipTickets>
+    <skillImprovements>0</skillImprovements>
+    <startLocation>Buenos-Aires</startLocation>
+  </Investigator>
+  <Investigator>
+    <Class>Astronomer</Class>
+    <health>5</health>
+    <sanity>7</sanity>
+    <lore>3</lore>
+    <influence>1</influence>
+    <observation>3</observation>
+    <strength>2</strength>
+    <will>4</will>
+    <assets />
+    <spells />
+    <cluesCount>0</cluesCount>
+    <trainTickets>0</trainTickets>
+    <shipTickets>0</shipTickets>
+    <skillImprovements>0</skillImprovements>
+    <startLocation>Arkham</startLocation>
+  </Investigator>
+</ArrayOfInvestigator>

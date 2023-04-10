@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Ancient xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>0</id>
+  <doomOnStart>0</doomOnStart>
+  <mythosChapter1>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+  </mythosChapter1>
+  <mythosChapter2>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+  </mythosChapter2>
+  <mythosChapter3>
+    <int>0</int>
+    <int>0</int>
+    <int>0</int>
+  </mythosChapter3>
+  <mysteriesCountToWin>0</mysteriesCountToWin>
+</Ancient>
